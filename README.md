@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedafatimazehra13-lgtm&label=Profile%20views&color=0e75b6&style=flat" alt="syedafatimazehra13-lgtm" /> </p>
 
-- 🌱 I’m currently learning **C++, python and data analytics**
+- 🌱 I’m currently learning **C++,and data analytics**
 
 - 📫 How to reach me **syedafatimazehra13@gmail.com**
 
